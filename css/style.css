@@ -692,9 +692,11 @@ h6 {
 --------------------------------*/
 
 #call-to-action {
-  background: #2d2b46;
+  background: #FD0F02;
   background-size: cover;
-  padding: 40px 0;
+  padding: 20px 80px 0px 80px ;
+  width: 80%;
+  margin-left: 10%;
 }
 
 #call-to-action .cta-title {
