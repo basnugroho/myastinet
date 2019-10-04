@@ -1412,7 +1412,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"] {
-  background: #1bb1dc;
+  background: #FD0F02;
   border: 0;
   border-radius: 3px;
   padding: 8px 30px;
@@ -1421,7 +1421,7 @@ h6 {
 }
 
 #footer .footer-top .form button[type="submit"]:hover {
-  background: #FD0F02;
+  background: darkred;
   cursor: pointer;
 }
 
